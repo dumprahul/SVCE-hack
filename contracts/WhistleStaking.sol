@@ -152,3 +152,7 @@ contract WhistleLoan {
         return (loan.amount, loan.startTime, loan.repaymentAmount, loan.isRepaid, loan.description);
     }
 }
+
+
+//contract address- 0xF8afe7f0C815FE336F10f14A21448e036e7a82B2
+//tx link - https://seitrace.com/tx/0x213e0935041523ba7c5d67ef053b69c32d7c4df12dff17f43d4d75a028aa714d?chain=atlantic-2
